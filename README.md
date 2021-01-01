@@ -1,0 +1,2 @@
+# queries
+🏗 SQL practice
