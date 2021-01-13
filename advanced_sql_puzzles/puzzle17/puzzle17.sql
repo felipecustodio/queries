@@ -1,0 +1,4 @@
+SELECT
+    Product
+FROM
+    products

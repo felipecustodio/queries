@@ -1,0 +1,10 @@
+Sequence,Syntax
+1,SELECT
+2,Product
+3,UnitPrice
+4,EffectiveDate
+5,FROM
+6,Products
+7,WHERE
+8,UnitPrice
+9,> 100
