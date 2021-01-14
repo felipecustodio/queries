@@ -1,0 +1,7 @@
+OrderID,CustomerID,OrderCount,Vendor
+Ord195342,1001,12,Direct Parts
+Ord245532,1001,54,Direct Parts
+Ord344394,1001,32,ACME
+Ord645363,2002,5,Direct Parts
+Ord442423,2002,7,ACME
+Ord524232,2002,16,ACME

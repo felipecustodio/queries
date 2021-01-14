@@ -1,0 +1,7 @@
+employee,manager,job,title,salary
+1001,president,185000
+2002,1001,director,120000
+3003,1001,office,manager,97000
+4004,2002,engineer,110000
+5005,2002,engineer,142000
+6006,2002,engineer,160000
