@@ -1,0 +1,5 @@
+DepartureCity,ArrivalCity,Cost
+Austin,Dallas,100
+Dallas,Memphis,200
+Memphis,Des Moines,300
+Dallas,Des Moines,400

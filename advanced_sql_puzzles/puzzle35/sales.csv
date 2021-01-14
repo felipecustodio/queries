@@ -1,0 +1,11 @@
+SalesRepID,InvoiceID,Amount,SalesType
+1001,Inv345756,13.454,International
+2002,Inv546744,3.434,International
+4004,Inv234745,54.645,International
+5005,Inv895745,234.345,International
+7007,Inv006321,776,International
+1001,Inv734534,4.564,Domestic
+2002,Inv600213,34.534,Domestic
+3003,Inv757853,345,Domestic
+6006,Inv198632,6.543,Domestic
+8008,Inv977654,67,Domestic
